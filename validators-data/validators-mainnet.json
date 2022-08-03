@@ -2872,6 +2872,35 @@
       "min_self_delegation": "1"
     },
     {
+      "operator_address": "evmosvaloper152y6pcgsagwh5q8933vecex840adml37rsmep3",
+      "consensus_pubkey": {
+        "@type": "/cosmos.crypto.ed25519.PubKey",
+        "key": "ouC5gicsJbF9xtoropuUZlQFBjl3V43lrSFAG3VP5TM="
+      },
+      "jailed": false,
+      "status": "BOND_STATUS_BONDED",
+      "tokens": "125154479119167566428213",
+      "delegator_shares": "125154479119167566428213.000000000000000000",
+      "description": {
+        "moniker": "Krillbucks",
+        "identity": "F40B10E395FB1570",
+        "website": "",
+        "security_contact": "",
+        "details": "your friendly neighborhood krill"
+      },
+      "unbonding_height": "0",
+      "unbonding_time": "1970-01-01T00:00:00Z",
+      "commission": {
+        "commission_rates": {
+          "rate": "0.050000000000000000",
+          "max_rate": "0.200000000000000000",
+          "max_change_rate": "0.010000000000000000"
+        },
+        "update_time": "2022-06-30T14:33:19.108708385Z"
+      },
+      "min_self_delegation": "1000000"
+    },
+    {
       "operator_address": "evmosvaloper129qy4mr22azrp3vhxyw72zmth5t75fk4xx2p6k",
       "consensus_pubkey": {
         "@type": "/cosmos.crypto.ed25519.PubKey",
